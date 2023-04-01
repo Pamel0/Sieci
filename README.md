@@ -1,3 +1,3 @@
 # Sieci
-# https://m.facebook.com/flx/warn/?u=https%3A%2F%2Fcdn.fbsbx.com%2Fv%2Ft59.2708-21%2F333626058_880688989820617_2095308162028541362_n.pdf%2FLABORATORIUM-SIECI-KOMPUTEROWYCH-compnet.et.put.poznan.pl.pdf%3F_nc_cat%3D107%26ccb%3D1-7%26_nc_sid%3D0cab14%26_nc_ohc%3DkBLbTh-cdLkAX-nYKTF%26_nc_ht%3Dcdn.fbsbx.com%26oh%3D03_AdT0_ALye9b1KN8yT1GRaKeCb_QiiFslNZV3fGxOuwjTCQ%26oe%3D6429F70A%26dl%3D1&h=AT3kOziZ1JUGJhuYlBU9ANopVUCKxexOT-oJHpLxt2KA-ndt4hyD3ZYUJHrxppcEffjV1W6lS3fNM4m1vpneELMdrfCiaogkdhB-ekRc22qEXw_MSRqviFUf0WzPA0VwtVJUzpyyMxFhiyY0
+
 # https://cdn.fbsbx.com/v/t59.2708-21/333626058_880688989820617_2095308162028541362_n.pdf/LABORATORIUM-SIECI-KOMPUTEROWYCH-compnet.et.put.poznan.pl.pdf?_nc_cat=107&ccb=1-7&_nc_sid=0cab14&_nc_ohc=kBLbTh-cdLkAX-nYKTF&_nc_ht=cdn.fbsbx.com&oh=03_AdT0_ALye9b1KN8yT1GRaKeCb_QiiFslNZV3fGxOuwjTCQ&oe=6429F70A&dl=1
